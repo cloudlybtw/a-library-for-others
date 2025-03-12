@@ -1,4 +1,5 @@
-Name,Age,"""Occupation"
-John Doe,28,Engineer
-Jane Doe,32,Designer
+"a""aa","b CRLFbb","ccc" CRLF
+Jan"e Doe,32,Designer
 Sam Smith,24,Developer
+Name,Age,OccupationCRLF
+John Doe,28,Engineer
